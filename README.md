@@ -1,4 +1,13 @@
 # Super-mario
+
+
+A fun super mario game made using html, css & JavaScript
+
+
+
+For use click the below link
+
+
 https://super-mario-rahulgoudas-projects.vercel.app/
 
 
